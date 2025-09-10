@@ -32,7 +32,7 @@ Open-Meteo API (weather & geocoding)
 
 CSS (custom styles with glassmorphism effect)
 
-🚀 Live Demo
+🚀 Live 
 Deployed on CodeSandbox → https://codesandbox.io/p/sandbox/weathernow-app-2wl42y
 
 📂 Submission Levels
