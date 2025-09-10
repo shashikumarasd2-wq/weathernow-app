@@ -26,11 +26,11 @@ Works across devices (mobile + desktop).
 
 🛠️ Technology Stack
 
-Framework: React (or Svelte – जो तुमने use किया है वो लिख दो)
+React (frontend framework)
 
-API Used: Open-Meteo API
+Open-Meteo API (weather & geocoding)
 
-Styling: Tailwind CSS (या जो भी use किया है वो लिख दो)
+CSS (custom styles with glassmorphism effect)
 
 🚀 Live Demo
 Deployed on CodeSandbox → https://codesandbox.io/p/sandbox/weathernow-app-2wl42y
